@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exemplo Permissões Fatec Carapicuiba Manha</string>
+    <string name="sem_gps_nao_rola">Sem GPS não rola</string>
+</resources>
